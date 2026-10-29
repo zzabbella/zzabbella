@@ -1,6 +1,6 @@
 <!-- Troque SEU_USUARIO pelo seu username do GitHub em todos os links -->
 
-<h6> Hey, I'm Isabella 👋</h6>
+<h1> Hey, I'm Isabella 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Web+%7C+Python+%7C+C;Aprendendo+e+construindo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
