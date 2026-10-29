@@ -3,16 +3,6 @@
 <h1>Hi, I'm Isabella 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFMT;Campe%C3%A3+do+HackaMT+2024+%F0%9F%8F%86;Desenvolvedora+Web+%7C+Python+%7C+C;Em+busca+de+est%C3%A1gio+em+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Buscando-Est%C3%A1gio%20em%20Tecnologia-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&color=6C63FF" />
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6C63FF&label=VISITAS" />
-</p>
-
-<p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyNzk5NjIsIm5iZiI6MTc5MzI3OTY2MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI5VDEzMTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzNDRkZDI5OTk2YTg5YjVkYzJjM2FiNjc1OTdmN2Q3NmI2MjNkMTA3OTc3ZjgyOTNlNTZmZDRiM2Y0YmI3NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Fj_9CEX_LRxvU6jdOYBQ0nPUI5vLcxQ7cTAsG7Fg7BE" width="1000">
 </p>
 
