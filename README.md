@@ -51,18 +51,6 @@ Trabalho em equipe · Aprendizado rápido · Iniciativa · Flexibilidade · Comp
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📌 Projetos em destaque
-
-<!-- Fixe seus melhores repositórios no perfil ou liste aqui -->
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Nome do projeto](https://github.com/SEU_USUARIO/repo) | Solução desenvolvida no HackaMT 2024 | _(preencha)_ |
-| [Nome do projeto](https://github.com/SEU_USUARIO/repo) | Uma linha explicando o que ele faz | _(preencha)_ |
-
----
 
 ## 🐍 Contribuições
 
