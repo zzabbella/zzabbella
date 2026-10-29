@@ -12,6 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=6C63FF&label=VISITAS" />
 </p>
 
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyNzk5NjIsIm5iZiI6MTc5MzI3OTY2MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI5VDEzMTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzNDRkZDI5OTk2YTg5YjVkYzJjM2FiNjc1OTdmN2Q3NmI2MjNkMTA3OTc3ZjgyOTNlNTZmZDRiM2Y0YmI3NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Fj_9CEX_LRxvU6jdOYBQ0nPUI5vLcxQ7cTAsG7Fg7BE" width="1000">
+</p>
+
 ---
 
 ## 🎓 Sobre mim
