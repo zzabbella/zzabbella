@@ -68,6 +68,12 @@ Trabalho em equipe · Aprendizado rápido · Iniciativa · Flexibilidade · Comp
 
 <!-- Requer a GitHub Action Platane/snk: https://github.com/Platane/snk -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzabbella/zzabbella/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzabbella/zzabbella/output/github-snake.svg" />
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/zzabbella/zzabbella/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
 </p>
